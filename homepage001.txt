@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>="westbengal"></title></head>
+<body background="india.jpg">
+<p><b><font face="Algerian">West Bengal</b></font> is a state in the eastern region of <b>India</b> between the <b>Himalayas and Bay of Bengal</b>. With over 91 million inhabitants, it is the fourth-most populous state and the fourteenth-largest state by area in India. Covering an area of 88,752 km<sup>2</sup> (34,267 sq mi), it is also the seventh-most populous country subdivision of the world.Part of the Bengal region of the Indian subcontinent, it borders <b>Bangladesh</b> in the east, and <b>Nepal and Bhutan</b> in the north. It also borders the Indian states of Odisha, Jharkhand, Bihar, Sikkim and Assam. The state capital is Kolkata, the third-largest metropolis, and seventh largest city by population in India. West Bengal includes the Darjeeling <b>Himalayan</b> hill region, the <b>Ganga's delta</b>, the Rarh region and the coastal <b>Sundarbans</b>. The state's main ethnic group are the Bengalis, with the Bengali Hindus forming the demographic majority.</p>
+<hr size="1" color="black">
+<p><h4><font face="Algerian"><u><b>FIVE CITIS OF WEST BENGAL </h4></b></u></font></hr></p>
+<table border="1" bordercolor="black" width"2" cellpadding="3" cellspacing="0">
+<tr>
+<th bgcolor="#AED6F1"><font color="red">Name</font></th>
+<th bgcolor="#AED6F1"><font color="red">District</font></th>
+</tr>
+<tr>
+<td><a href="kolkata.html"><b>Kolkata</b></a></td>
+<td>Kolkata.North 24 Praganas,<br>
+South 24 Praganas</td>
+</tr>
+<tr>
+<td><a href="Asansole.html"><b>Asansol</b></a></td>
+<td>Paschim Bardhaman</td>
+</tr>
+<tr>
+<td><a href="siliguri.html"><b>Siliguri</b></a></td>
+<TD>Darjeeling,Jalpaiguri</td>
+</tr>
+<tr>
+<td><a href="Barddhaman.html"><b>Barddhaman</b></a></td>
+<td>Purba Barddhaman</td>
+</tr>
+<tr>
+<td><a href="Jalpaiguri.html"><b>Jalpaiguri</b></a></td>
+<td>Jalpaiguri</td>
+</tr>
+</table>
+<marquee hspace="600" behavior="scroll"><font color="red" face="Bookman Old Style"><h1>WEST BENGAL</h1></font></marquee>
+</body>
+</html>
